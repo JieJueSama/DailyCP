@@ -36,3 +36,6 @@ Fork本项目，在你的仓库下点击Settings，增加`SCHOOL_NAME`、`ACCOUN
 
 ## Credits
 * [Finch/FuckDailyCP](https://gitee.com/Finch1/FuckDailyCP)
+
+
+
