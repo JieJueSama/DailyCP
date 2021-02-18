@@ -201,6 +201,9 @@ def main(argv):
         account = str(args[1])
         password = str(args[2])
         address = str(args[3])
+    account = 2005019017
+    password = zjx19971018
+    address = '中国北京市昌平区昌平路380号院-33号楼'
     print("Login information：")
     print("Account：" + account)
     print("Password：" + password)
